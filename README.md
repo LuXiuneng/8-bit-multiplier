@@ -18,7 +18,7 @@
 ## Design Topology
 - Complementary CMOS NAND & NOR gate
 - Pass-transmission gate
-![](transmission_gate.png)
+[](transmission_gate.png)
 - Multilevel Carry Look Ahead Adder
 ![](spg.png)
 ## Design & Simulation Tools:
