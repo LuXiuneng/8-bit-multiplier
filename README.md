@@ -6,6 +6,8 @@
 - Try some unusual logic family or multiplier structure
 
 ## Team Information
+- College: Shanghai Jiao Tong University
+- Institution: University of Michigan - Shanghai Jiao Tong Univesity Joint Institution
 - Instructor: Prof. Yaping Dan
 - Course: Ve312 Digital Integrated Circuit
 - Date: Nov. 2017
